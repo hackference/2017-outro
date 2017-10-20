@@ -1,10 +1,4 @@
 
-# Hackference bye bye
+![](resources/hackference-white.svg)
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+# 2017
